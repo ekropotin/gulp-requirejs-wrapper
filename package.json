@@ -1,0 +1,40 @@
+{
+  "name": "gulp-requirejs-wrapper",
+  "description": "Gulp wrapper around requireJs",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ekropotin/gulp-requirejs-wrapper.git"
+  },
+  "author": {
+    "name": "Evgeny Kropotin",
+    "email": "ekropotin@gmail.com"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "gulpplugin"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "gulp-util": "^3.0.7",
+    "requirejs": "^2.2.0",
+    "through2": "^2.0.1"
+  },
+  "scripts": {},
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ekropotin/gulp-requirejs-wrapper/issues"
+  },
+  "maintainers": [
+    {
+      "name": "ekropotin",
+      "email": "ekropotin@gmail.com"
+    }
+  ],
+  "directories": {}
+}
