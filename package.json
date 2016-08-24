@@ -1,7 +1,7 @@
 {
   "name": "gulp-requirejs-wrapper",
   "description": "Gulp wrapper around requireJs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/ekropotin/gulp-requirejs-wrapper.git"

@@ -34,7 +34,7 @@ module.exports = function(rjsOptions) {
 
       function(error) {
         gutil.log(error);
-        this.emit('error', new PluginError('gulp-requirejs-wrapper', error));
+        self.emit('error', new PluginError('gulp-requirejs-wrapper', error));
         cb();
       });
   }
